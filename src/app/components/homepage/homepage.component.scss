@@ -1,0 +1,12 @@
+.homepage {
+    background: url('https://images.unsplash.com/photo-1615715757401-f30e7b27b912?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMTI1NDUzfHxlbnwwfHx8fHw%3D&w=1000&q=80');
+    width: 100%;
+    min-height: calc(100vh - 76px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 76px;
+
+    h1 {
+        font-family: 'Gloria Hallelujah', cursive;
+    }
+}
